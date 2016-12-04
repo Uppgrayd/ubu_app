@@ -1,0 +1,31 @@
+.section {
+  height: 600px;
+  padding-top: 10%;
+  background-color: #0098ff;
+}
+
+.h1 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.h2 {
+  color: #fff;
+  text-align: center;
+}
+
+.paragraf {
+  display: block;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
